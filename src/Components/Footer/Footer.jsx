@@ -10,11 +10,11 @@ const Footer = () => {
     <div className="footer">
       <img src={Wave} alt="" style={{ width: "100%" }} />
       <div className="f-content">
-        <span>Zainkeepscode@gmail.com</span>
+        <span>mir.saif.ali2004@gmail.com</span>
         <div className="f-icons">
-          <Insta color="white" size={"3rem"} />
-          <Facebook color="white" size={"3rem"} />
-          <Gitub color="white" size={"3rem"} />
+          <a href="https://www.instagram.com/saifa_li2345/"><Insta color="white" size={"3rem"}/></a>
+          <a href="https://www.facebook.com/profile.php?id=100085895424529"><Facebook color="white" size={"3rem"} /></a>
+          <a href="https://github.com/MIR-2004"><Gitub color="white" size={"3rem"} /></a>
         </div>
       </div>
     </div>
